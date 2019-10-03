@@ -1,3 +1,2 @@
 # firstproject
-tutorial
-asdasd
+03.10.2019 Exploring GitHub
