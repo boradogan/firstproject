@@ -1,2 +1,4 @@
 This is the main document.
 We will now add different branches trying to make modifications.
+
+Let's say that we are satisfied with module2 here.
